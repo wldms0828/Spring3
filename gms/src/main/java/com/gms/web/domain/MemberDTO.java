@@ -7,6 +7,6 @@ import lombok.Data;
 @Component
 // Bean으로 사용할 때 Component 사용
 @Data
-public class Member {
+public class MemberDTO {
 	private String memberId,teamId,name,ssn,roll,pass,age,gender,subject;
 }

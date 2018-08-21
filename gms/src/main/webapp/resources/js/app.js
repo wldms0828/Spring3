@@ -182,7 +182,7 @@ var members = (()=>{
 var common = (()=>{
 	return {
 		main : x=>{
-			alert('컨텍스트 패스 : '+x);
+			alert('컨텍스트 패스 : '+ x);
 			document.getElementById('moveAdmin')
 			.addEventListener('click',function(){  
 				 location.href =

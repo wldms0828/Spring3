@@ -25,13 +25,13 @@ public class HomeController {
 
 	public String home(HttpSession session, HttpServletRequest request) {
 
-		String context = request.getContentType();
+		String context = request.getContextPath();
 		logger.info("Welcome home! The client locale is {}.", context);
 		
 		session.setAttribute("context", context);
 //		model.addAttribute("serverTime", "" );
 		
-		return "home";
+		return "main";
 	}
 	
 }
