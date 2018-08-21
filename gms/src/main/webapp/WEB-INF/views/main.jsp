@@ -6,13 +6,12 @@
 	<title>Home</title>
 <LINK REL="SHORTCUT ICON" HREF="${context}/resources/img/favicon.ico" /> 
 <!-- favicon -->
-
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <!-- bootstrap -->
-<script src="${context}/resources/js/app.js"></script>
+<%-- <script src="${context}/resources/js/app.js"></script> --%>
 <!-- 내코드 -->
 <link rel="stylesheet" href="resources/css/bootstrap.min.css">
 <link rel="stylesheet" href="resources/css/flexslider.css">
@@ -29,8 +28,8 @@
     <div class="header-content clearfix"> <a class="logo" href="#">Auro</a>
       <nav class="navigation" role="navigation">
         <ul class="primary-nav">
-          <li><a href="#header-slider">Home</a></li>
-          <li><a href="#services">Our Services</a></li>
+          <li><a id="login_btn">로그인</a></li>
+          <li><a href="#services">회원가입</a></li>
           <li><a href="#portfolio">Our Portfolio</a></li>
           <li><a href="#testimonials">Testimonials</a></li>
           <li><a href="#contact">Contact</a></li>
@@ -240,7 +239,15 @@
   </div>
 </footer>
 <!-- footer section --> 
-
+<script>
+/* document.getElementById('login_btn').addEventListener('click',function(){
+ 	alert('로그인 버튼 클릭');
+ });
+ */
+$('#login_btn').on('click',function(){
+	alert('로그인버튼클릭2')
+});
+</script>
 <!-- JS FILES --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
 <script src="resources/js/bootstrap.min.js"></script> 
