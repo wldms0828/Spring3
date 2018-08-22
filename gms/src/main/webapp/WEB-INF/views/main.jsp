@@ -12,10 +12,10 @@
     <meta name="google-site-verification" content="d-veBobRNo_in0thN3uOOoIcUWMUOjQZeMidTyItfGk"/>
     <meta name="google-site-verification" content="AZK3GfRwg4q_EH-0OSbbkCurocEY7okWrPZF93COxYU"/>
 
-  <title>인테리어 집꾸미기는 오늘의집</title>
+  <title>지은이, 지은집</title>
   <meta name="description"
         content="집꾸미기 및 셀프 인테리어 정보 서비스 오늘의집, 인테리어 정보와 쇼핑몰 까지" >
-  <!-- og tags -->
+
     <!-- FACEBOOK DATA -->
 <meta property="og:title" content="인테리어 집꾸미기는 오늘의집">
 <meta property="og:type" content="website">
@@ -30,8 +30,6 @@
 <meta itemprop="name" content="인테리어 집꾸미기는 오늘의집">
 <meta itemprop="description" content="오늘의집에서 다양한 인테리어 이야기를 함께해요.">
 <meta itemprop="image" content="https://s3-ap-northeast-1.amazonaws.com/bucketplace-v2-development/uploads/default_images/open_graph_icon_2.png">
-
-  <!---->
 
   <!-- phone 즐겨찾기 아이콘 설정 -->
   <link rel="alternate" href="android-app://net.bucketplace/http/ohou.se/deep"/>
