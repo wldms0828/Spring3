@@ -15,5 +15,6 @@ public interface MemberService {
 	public void modify(Map<?,?> p) ;
 	public void remove(Map<?,?> p) ;
 	public boolean login(Map<?,?> p) ;
+	
 
 }
