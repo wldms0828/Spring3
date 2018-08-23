@@ -172,7 +172,7 @@
 </a>        </div>
           <div class="navigation-primary__user unlogged">
             <div class="navigation-primary__user__unlogged">
-              <a class="navigation-primary__user__unlogged__login" id="login_btn">로그인</a>
+              <a class="navigation-primary__user__unlogged__login" id="logout_btn">로그아웃</a>
               <a class="navigation-primary__user__unlogged__register" id="join_btn">회원가입</a>
             </div>
           </div>
@@ -275,8 +275,8 @@
       </div>
         <div class="navigation-drawer__user unlogged">
           <div class="navigation-drawer__user__unlogged">
-            <a class="navigation-drawer__user__unlogged__login" id="login_btn">로그인</a>
-            <a class="navigation-drawer__user__unlogged__register" id="join_btn">회원가입</a>
+            <a class="navigation-drawer__user__unlogged__login" href="/users/sign_in">로그아웃</a>
+            <a class="navigation-drawer__user__unlogged__register" href="/normal_users/new">회원가입</a>
           </div>
         </div>
       <div class="navigation-drawer__menu">
@@ -582,7 +582,7 @@
       <a class="home-shortcut__item__link" href="/magazines?content_type=project&amp;userable_type=self#area">
         <div class="home-shortcut__item__link__image">
           <img class="home-shortcut__item__link__image__img"
-               src="../../resources/images/jieunzip/home-short-1.jpg">
+               src="resources/images/jieunzip/home-short-1.jpg">
         </div>
         <div class="home-shortcut__item__link__title">평수필터</div>
         <div class="home-shortcut__item__link__caption">평수별로 집 구경</div>

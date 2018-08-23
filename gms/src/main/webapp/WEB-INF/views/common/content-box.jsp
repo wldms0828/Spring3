@@ -45,7 +45,7 @@
 
   <section class="container home-section home-stories">
     <header class="row home-section__header">
-      <h2 class="col-12 home-section__header__content">오늘의 스토리</h2>
+      <h2 class="col-12 home-section__header__content">내방의 스토리</h2>
     </header>
     <ul class="row home-stories__content">
         <li class="col-6 col-md-3 home-stories__content__item">
@@ -113,7 +113,7 @@
           </div>
           <div class="story-entry__content__profile">
             <span class="story-entry__content__profile__image" style="background-image: url('https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-1530271073759_97xu7t.jpg/72/72')"></span>
-            <span class="story-entry__content__profile__name">오늘의집에디터</span>
+            <span class="story-entry__content__profile__name">내방의집에디터</span>
           </div>
       </div>
       
@@ -147,7 +147,7 @@
 
   <section class="container home-section home-cards">
     <header class="row home-section__header">
-      <h2 class="col home-section__header__content">오늘의 인기 사진</h2>
+      <h2 class="col home-section__header__content">내방의 인기 사진</h2>
       <a class="home-section__header__more home-hide-sm" href="/cards/feed?order=popular">더보기</a>
     </header>
     <ul class="row home-cards__content">
@@ -330,7 +330,7 @@
 </a>
   <section class="container home-section home-exhibitions">
     <header class="row home-section__header">
-      <h2 class="col home-section__header__content">오늘의 기획전</h2>
+      <h2 class="col home-section__header__content">내방의 기획전</h2>
       <a class="home-section__header__more home-hide-sm" href="/exhibitions?showroom=false">더보기</a>
     </header>
     <div class="scroller-wrap home-exhibitions__content-wrap">
@@ -448,7 +448,7 @@
     <div class="story-entry__content-wrap">
       <div class="story-entry__content">
           <div class="story-entry__content__category">
-            [오늘의집 단독] 내장재 공개! 라돈 불검출!
+            [니방내방 단독] 내장재 공개! 라돈 불검출!
           </div>
           <div class="story-entry__content__title">
             좋은 바른 매트리스의 기준<br>
@@ -491,7 +491,7 @@
             나만 알고싶은 핫한 예쁜그릇을 소개합니다.
           </div>
           <div class="story-entry__content__title">
-            오늘의집 예쁜 그릇가게<br>
+            니방내방 예쁜 그릇가게<br>
           </div>
       </div>
       
@@ -534,14 +534,14 @@
   </div>
 </div>    <div class="row home-section__more-wrap">
       <div class="col home-section__more">
-        <a class="col home-section__more__btn" href="/exhibitions?showroom=false">오늘의 기획전 더보기</a>
+        <a class="col home-section__more__btn" href="/exhibitions?showroom=false">니방내방 기획전 더보기</a>
       </div>
     </div>
   </section>
 
   <section class="container home-section home-wedding home-section--scroll">
     <header class="row home-section__header">
-      <h2 class="col home-section__header__content">오늘의 추천 신혼가구</h2>
+      <h2 class="col home-section__header__content">니방내방 추천 신혼가구</h2>
       <a class="home-section__header__more" href="/productions/feed?selling=true&amp;theme=wedding">더보기</a>
     </header>
     <div class="scroller-wrap home-wedding__content-wrap">
@@ -1975,7 +1975,7 @@
       <span class="tag icon-page-home__d-3"></span>전문가 가입신청<span class="caret caret-mobile icon-page-home__g-1"></span>
     </div>
     <div class="home-b2b-notice__entry__caption">
-      인테리어 전문가님! 오늘의집과 함께하세요<span class="caret icon-page-home__h-1"></span>
+      인테리어 전문가님! 니방내방과 함께하세요<span class="caret icon-page-home__h-1"></span>
    </div>
 </a>  <a class="home-b2b-notice__entry" href="/contacts/b2b">
     <div class="home-b2b-notice__entry__title">
